@@ -4,7 +4,7 @@ Yup, it's me Arctic
   
   <h2 align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=arctic1337;UD+on+BE+%26+EAC;Popular+In+Cheating+Community;+%26+Bypassing+Anticheats;discord.gg/beatware)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=arctic1337;UD+on+BE+%26+EAC;Popular+In+Cheating+Community;+Bypassing+Anticheats;discord.gg/beatware)](https://git.io/typing-svg)
 
 ### Programming Languages
 
